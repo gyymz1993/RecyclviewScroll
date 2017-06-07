@@ -11,7 +11,7 @@
 
 
 
-        <activity android:name=".MainActivity1">
+        <activity android:name=".TestFragment">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
